@@ -37,4 +37,4 @@ class Content extends Component {
         );
     }
 }
-export default Lession5
+export default Lession5;
