@@ -57,7 +57,6 @@ class Content extends React.Component {
                     <td>{this.props.data.age}</td>
                 </tr>
             </div>
-
         );
     }
 }
